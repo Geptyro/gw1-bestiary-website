@@ -1,0 +1,23 @@
+{
+	"name": "gw1-bestiary-website",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"prepare-data": "node scripts/prepare-data.js",
+		"dev": "npm run prepare-data && vite dev",
+		"build": "npm run prepare-data && vite build",
+		"preview": "vite preview",
+		"start": "node build"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "^5.5.4",
+		"@sveltejs/kit": "^2.63.0",
+		"@sveltejs/vite-plugin-svelte": "^7.1.2",
+		"svelte": "^5.56.1",
+		"vite": "^8.0.16"
+	},
+	"dependencies": {
+		"@geptyro/gw1-bestiary": "^0.2.0"
+	}
+}

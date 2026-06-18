@@ -1,0 +1,8 @@
+node_modules
+/.svelte-kit
+/build
+/dist
+
+# Generated at build time from the @geptyro/gw1-bestiary npm package
+/src/lib/generated
+/static/npc

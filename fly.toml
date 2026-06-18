@@ -1,0 +1,36 @@
+# Private backend app: GW1 bestiary as a SvelteKit Node server (adapter-node).
+# Created with `fly launch --flycast` (private 6PN, no public IP) — reachable only
+# as gw1-bestiary-website.flycast:80 from the cdd-gateway, which terminates TLS.
+
+app = 'gw1-bestiary-website'
+primary_region = 'cdg'
+
+[build]
+  dockerfile = 'Dockerfile'
+
+[http_service]
+  internal_port = 8080
+  # The gateway already forces HTTPS at the edge; no point redirecting again on
+  # the private hop (and a redirect here would break the plain-HTTP proxy).
+  force_https = false
+  # Always-on, no suspend. Flycast does not reliably wake a fully idled backend on
+  # a proxied request, and suspend/resume on an actively-browsed site shows up as
+  # navigation hiccups. One always-running machine keeps the gateway->backend hop
+  # deterministic. (Cheap; bump min_machines_running to 2 if you want HA failover.)
+  auto_stop_machines = false
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [[http_service.checks]]
+    interval = '15s'
+    timeout = '2s'
+    grace_period = '5s'
+    method = 'GET'
+    path = '/'
+
+# A SvelteKit Node server (with the ~2.3MB bundled NPC data chunk) wants more than
+# the 256mb default to avoid OOM — 512mb, matching personal-website.
+[[vm]]
+  memory = '512mb'
+  cpu_kind = 'shared'
+  cpus = 1
