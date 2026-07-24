@@ -102,6 +102,9 @@
 	<span>
 		{meta.count} creatures &amp; NPCs · rendered from the original Guild Wars game models
 	</span>
+	<span>
+		crafted by <a class="author" href="https://cedricdessalles.dev" rel="author">Cédric Dessalles</a>
+	</span>
 	<span class="legal">
 		Artwork © ArenaNet / NCSoft · non-commercial fan project
 	</span>
@@ -305,6 +308,12 @@
 		border-top: 1px solid var(--rule);
 		color: #8a7c5e;
 		font-size: 14px;
+	}
+	footer .author {
+		color: #b7a883;
+	}
+	footer .author:hover {
+		color: var(--gold-bright);
 	}
 	footer .legal {
 		font-size: 12px;
