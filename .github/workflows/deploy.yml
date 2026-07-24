@@ -4,6 +4,9 @@ name: Deploy
 # Pushing to main does NOT deploy — cut a tag to release:
 #   git tag v1.0.0 && git push origin v1.0.0
 #
+# Deploy logic (remote build + no-public-IP security gate) lives in the shared
+# template Geptyro/github-workflows — this file only picks the app name.
+#
 # ONE-TIME BOOTSTRAP (before the first tag — flyctl deploy does NOT create apps):
 #   fly launch --flycast --no-deploy --name gw1-bestiary-website --org personal
 #   # --flycast gives a PRIVATE 6PN address and no public IP. The gateway
@@ -19,30 +22,8 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    env:
-      APP: gw1-bestiary-website
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: superfly/flyctl-actions/setup-flyctl@master
-
-      - name: Deploy
-        run: flyctl deploy --remote-only --app "$APP" --config fly.toml
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
-
-      # SECURITY GATE: keep this backend private (reachable only via the gateway
-      # over .flycast). A deploy can auto-allocate a public IP; fail the job (and
-      # release them) if any non-private address is present.
-      - name: Assert no public IP (private backend)
-        run: |
-          public=$(flyctl ips list --app "$APP" --json | jq -r '.[] | select(.Type != "private_v6") | .Address')
-          if [ -n "$public" ]; then
-            echo "::error::Public IP(s) found on private backend $APP: $public — releasing."
-            for ip in $public; do flyctl ips release "$ip" --app "$APP" || true; done
-            exit 1
-          fi
-          echo "OK: $APP has only a private Flycast address."
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+    uses: Geptyro/github-workflows/.github/workflows/fly-deploy.yml@main
+    with:
+      app: gw1-bestiary-website
+    secrets:
+      FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
