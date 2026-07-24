@@ -10,7 +10,9 @@ RUN npm ci
 
 COPY . .
 # `npm run build` runs prepare-data (pulls @geptyro/gw1-bestiary) then vite build.
-RUN npm run build
+# Raise the fd soft limit to the hard limit first: prerendering ~2.3k pages
+# trips EMFILE under the Fly remote builder's default 1024.
+RUN ulimit -n "$(ulimit -Hn)" && npm run build
 
 # --- runtime image ------------------------------------------------------------
 FROM node:22-alpine AS runner
