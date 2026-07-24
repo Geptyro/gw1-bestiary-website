@@ -80,10 +80,8 @@
 										<a
 											class="skill"
 											class:elite={sk.elite}
-											href={sk.article}
-											target="_blank"
-											rel="noopener noreferrer"
-											title={sk.elite ? `${sk.name} (elite)` : sk.name}
+											href="/skill/{slugify(sk.name)}/"
+											title="{sk.elite ? `${sk.name} (elite)` : sk.name} — see every creature with this skill"
 										>
 											<span class="skill-ico">
 												<img src={sk.icon} alt={sk.name} loading="lazy" width="64" height="64" />

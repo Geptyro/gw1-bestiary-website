@@ -1,0 +1,6878 @@
+{
+	"\"Brace Yourself!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Brace Yourself!\" (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Can't Touch This!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Charge!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Coward!\"": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Fear Me!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Find Their Weakness!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Find Their Weakness!\" (Thackeray)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"For Great Justice!\"": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Form Up and Advance!\"": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Go for the Eyes!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Go for the Eyes!\" (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"I Will Avenge You!\"": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"I Will Survive!\"": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Incoming!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Kilroy Stonekin\"": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Let's Get 'Em!\"": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Make Your Time!\"": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Mmmm. Snowcone!\"": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Never Give Up!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Never Surrender!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"None Shall Pass!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"On Your Knees!\"": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Retreat!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Shields Up!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Stand Your Ground!\"": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Stand Your Ground!\" (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Tango Down!\"": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"The Power Is Yours!\"": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"There's Nothing to Fear!\" (Thackeray)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"To the Limit!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Victory Is Mine!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"Watch Yourself!\"": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"You Will Die!\"": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Shout",
+		"missing": false
+	},
+	"\"You're All Alone!\"": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"Abaddon's Chosen": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Abaddon's Favor": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Accumulated Pain": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Aegis": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aftershock": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Aggressive Refrain": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Echo",
+		"missing": false
+	},
+	"Agonizing Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Agony": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Air Attunement": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Air of Disenchantment": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Amity": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ancestor's Visage": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Ancestors' Rage": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Skill",
+		"missing": false
+	},
+	"Angelic Bond": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Skill",
+		"missing": false
+	},
+	"Angorodon's Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Spell",
+		"missing": false
+	},
+	"Anguish": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Animate Bone Fiend": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Bone Horror": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Bone Minions": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Candy Golem": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Flesh Golem": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Shambling Horror": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Animate Vampiric Horror": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Anthem of Disruption": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Chant",
+		"missing": false
+	},
+	"Anthem of Envy": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Chant",
+		"missing": false
+	},
+	"Anthem of Flame": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Chant",
+		"missing": false
+	},
+	"Anthem of Fury": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Chant",
+		"missing": false
+	},
+	"Anthem of Guidance": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Chant",
+		"missing": false
+	},
+	"Anthem of Weariness": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Chant",
+		"missing": false
+	},
+	"Antidote Signet": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Apply Poison": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Arc Lightning": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Arcane Conundrum": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Arcane Echo": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Arcane Languor": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Arcane Zeal": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Archer's Signet": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Signet",
+		"missing": false
+	},
+	"Arcing Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Aria of Restoration": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Aria of Zeal": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Armor of Earth": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Armor of Mist": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Armor of Sanctity": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Armor of Unfeeling": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Skill",
+		"missing": false
+	},
+	"Ash Blast": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Hex spell",
+		"missing": false
+	},
+	"Assassin's Promise": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Assassin's Remedy": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Assault Enchantments": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Augury of Death": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Aura of Displacement": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aura of Faith": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aura of Restoration": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aura of Stability": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aura of the Lich": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Aura of Thorns": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Aura Slicer": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Auspicious Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Auspicious Incantation": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Avalanche (skill)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Avatar of Balthazar": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Form",
+		"missing": false
+	},
+	"Avatar of Dwayna": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Form",
+		"missing": false
+	},
+	"Avatar of Dwayna (snow fighting skill)": {
+		"profession": "Dervish",
+		"attribute": "",
+		"type": "Form",
+		"missing": false
+	},
+	"Avatar of Grenth": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Form",
+		"missing": false
+	},
+	"Avatar of Lyssa": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Form",
+		"missing": false
+	},
+	"Avatar of Melandru": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Form",
+		"missing": false
+	},
+	"Awaken the Blood": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Axe Rake": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Axe Twist": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Backbreaker": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Backfire": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Balanced Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Ballad of Restoration": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Balthazar's Aura": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Balthazar's Pendulum": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Balthazar's Rage": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Bane Signet": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Banish": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Banishing Strike": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Banner of the Unseen": {
+		"profession": "",
+		"attribute": "",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Barbarous Slice": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Barbed Arrows": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Barbed Signet": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Barbed Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Barbed Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Barbs": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Barrage": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Battle Rage": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Bed of Coals": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Beguiling Haze": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Belly Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Berserker Stance": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Bestial Mauling": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Binding Chains": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Bitter Chill": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Black Lotus Strike": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Black Mantis Thrust": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Black Spider Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Blackout": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Blades of Steel": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Blazing Finale": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Echo",
+		"missing": false
+	},
+	"Blazing Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Blessed Light": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blessed Signet": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Signet",
+		"missing": false
+	},
+	"Blinding Breath": {
+		"profession": "",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Blinding Flash": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blinding Powder": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blinding Surge": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blood Bond": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Blood Drinker": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blood is Power": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Blood of the Aggressor": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blood of the Master": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Blood Renewal": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Blood Ritual": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Touch Enchantment Spell",
+		"missing": false
+	},
+	"Bloodsong": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Bludgeon": {
+		"profession": "",
+		"attribute": "",
+		"type": "Attack",
+		"missing": false
+	},
+	"Blurred Vision": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Body Blow": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Bonetti's Defense": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Boon of Creation": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Brawling Combo Punch": {
+		"profession": "",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Brawling Headbutt": {
+		"profession": "",
+		"attribute": "Deldrimor rank",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Brawling Hook": {
+		"profession": "",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Brawling Jab": {
+		"profession": "",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Brawling Straight Right": {
+		"profession": "",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Brawling Uppercut": {
+		"profession": "",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Breath of Fire": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Broad Head Arrow": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Brutal Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Bull's Charge": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Bull's Strike": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Burning Arrow": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Burning Breath": {
+		"profession": "",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Burning Speed": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Burst of Aggression": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Calculated Risk": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Call of Haste": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Shout",
+		"missing": false
+	},
+	"Call to the Spirit Realm": {
+		"profession": "Ritualist",
+		"attribute": "",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Called Shot": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Caltrops": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Candy Corn Strike": {
+		"profession": "",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Caretaker's Charge": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Castigation Signet": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Castigation Signet (Saul D'Alessio)": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Cautery Signet": {
+		"profession": "Paragon",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Celestial Haste": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Celestial Stance": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Celestial Storm": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Celestial Summoning": {
+		"profession": "Ritualist",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Chain Lightning": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Channeled Strike": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Channeling": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Chaos Storm": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Charging Strike": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Charm Animal": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Skill",
+		"missing": false
+	},
+	"Charm Animal (monster)": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Chest Thumper": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Chilblains": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Chilling Victory": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Chilling Winds": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Choking Breath": {
+		"profession": "",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Choking Gas": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Chorus of Restoration": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Churning Earth": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Clamor of Souls": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Cleave": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Club Strike": {
+		"profession": "",
+		"attribute": "",
+		"type": "Attack",
+		"missing": false
+	},
+	"Clumsiness": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Comfort Animal": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Skill",
+		"missing": false
+	},
+	"Complicate": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Concussion Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Conjure Flame": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Conjure Frost": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Conjure Lightning": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Conjure Nightmare": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Conjure Phantasm": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Consume Corpse": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Consume Soul": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Spell",
+		"missing": false
+	},
+	"Contagion": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Contemplation of Purity": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Skill",
+		"missing": false
+	},
+	"Convert Hexes": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Conviction": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Corrupt Enchantment": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Counter Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Counterattack": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Crippling Anguish": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Crippling Anthem": {
+		"profession": "Paragon",
+		"attribute": "Command",
+		"type": "Chant",
+		"missing": false
+	},
+	"Crippling Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Crippling Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Crippling Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Critical Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Critical Defenses": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Critical Eye": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Skill",
+		"missing": false
+	},
+	"Critical Strike": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Crossfire": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Crude Swing": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Cruel Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Cruel Was Daoshen": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Crushing Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Cry of Frustration": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Cry of Madness": {
+		"profession": "",
+		"attribute": "",
+		"type": "Shout",
+		"missing": false
+	},
+	"Crystal Wave": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Cultist's Fervor": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Cure Hex": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Cyclone Axe": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Dancing Daggers": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Dark Apostasy": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dark Aura": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dark Bond": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dark Pact": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Dark Prison": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Dash": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Deadly Haste": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Deadly Paradox": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Stance",
+		"missing": false
+	},
+	"Deadly Riposte": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Skill",
+		"missing": false
+	},
+	"Death Blossom": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Death Nova": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Death's Charge": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Death's Retreat": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Deathly Chill": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Deathly Swarm": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Debilitating Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Deep Freeze": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Defender's Zeal": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Defensive Anthem": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Chant",
+		"missing": false
+	},
+	"Defensive Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Defiant Was Xinrae": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Defile Enchantments": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Defile Flesh": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Deflect Arrows": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Defy Pain": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Demonic Flesh": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Deny Hexes": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Desecrate Enchantments": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Desperate Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Destruction": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Destructive Was Glaive": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Determined Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Devastating Hammer": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Disarm": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Discharge Enchantment": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Discord": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Disenchantment": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Disenchantment (Togo)": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Dismember": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Dismiss Condition": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Displacement": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Disrupting Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Disrupting Dagger": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Disrupting Lunge": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Disrupting Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Disrupting Stab": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Disrupting Throw": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Dissonance": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Distortion": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Distortion (Gwen)": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Distracting Blow": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Distracting Shot": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Diversion": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Divert Hexes": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Divine Boon": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Divine Healing": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Divine Intervention": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Divine Spirit": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dodge": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Dolyak Signet": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Signet",
+		"missing": false
+	},
+	"Doom": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Spell",
+		"missing": false
+	},
+	"Double Dragon": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dragon Empire Rage": {
+		"profession": "Ritualist",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dragon Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Dragon's Stomp": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Drain Delusions": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Drain Enchantment": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Draw Conditions": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Draw Spirit": {
+		"profession": "Ritualist",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Drunken Blow": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Dryder's Defenses": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Stance",
+		"missing": false
+	},
+	"Dual Shot": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Dulled Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Dust Cloak": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Dust Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Dwarven Battle Stance": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Dwayna's Kiss": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Dwayna's Sorrow": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Dwayna's Touch": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Earth Attunement": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Earth Shaker": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Earthbind": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Earthen Shackles": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Earthquake": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Ebon Dust Aura": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Ebon Hawk": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Echo": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Edge of Extinction": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Ehzah from Above": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Elemental Attunement": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Elemental Flame": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Elemental Resistance": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Empathic Removal": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Empathy": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Empowerment": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Enchanted Haste": {
+		"profession": "Dervish",
+		"attribute": "",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Enchanter's Conundrum": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Endure Pain": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Enduring Toxin": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Energy Blast": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Spell",
+		"missing": false
+	},
+	"Energy Burn": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Energy Drain": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Energy Surge": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Energy Tap": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Enervating Charge": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Enfeeble": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Enfeebling Blood": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Enfeebling Touch": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Enraged Lunge": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Enraged Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Enraging Charge": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Entangling Asp": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Envenom Enchantments": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Epidemic": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Equinox": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Eremite's Attack": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Eremite's Zeal": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Eruption": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Escape": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Essence Bond": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Essence Strike": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Essence Strike (Togo)": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Ether Feast": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Ether Lord": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ether Phantom": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ether Prism": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Skill",
+		"missing": false
+	},
+	"Ether Prodigy": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Eviscerate": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Executioner's Strike": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Exhausting Assault": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Expel Hexes": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Expert Focus": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Expert's Dexterity": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Explosive Growth": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Expose Defenses": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Expunge Enchantments": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Extinguish": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Faintheartedness": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Faithful Intervention": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Falling Spider": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Famine": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Favorable Winds": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Feast of Corruption": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Feast of Vengeance": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Feedback": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Feign Death": {
+		"profession": "",
+		"attribute": "",
+		"type": "Form",
+		"missing": false
+	},
+	"Feigned Neutrality": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Feral Lunge": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Ferocious Strike": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Fertile Season": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Fetid Ground": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Fevered Dreams": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Fierce Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Final Thrust": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Finale of Restoration": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Echo",
+		"missing": false
+	},
+	"Finale of Restoration (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Echo",
+		"missing": false
+	},
+	"Fire Attunement": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Fire Storm": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Fireball": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Flail": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Flame Burst": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Flame Djinn's Haste": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Flame Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Flare": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Flashing Blades": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Stance",
+		"missing": false
+	},
+	"Flee": {
+		"profession": "",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Fleeting Stability": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Flesh of My Flesh": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Flesh of My Flesh (PvP)": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Fleshreaver's Escape": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Flourish": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Flurry": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Flurry of Ice": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Focused Anger": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Skill",
+		"missing": false
+	},
+	"Forceful Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Forked Arrow": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Foul Feast": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Spell",
+		"missing": false
+	},
+	"Fox Fangs": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Fragility": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Fragmentation Grenade": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Freezing Gust": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Frenzy": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Frigid Armor": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Frozen Burst": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Frozen Soil": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Frustration": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Furious Axe": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Gale": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Galrath Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Gash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Gaze from Beyond": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Gaze of Contempt": {
+		"profession": "Necromancer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Gaze of Fury": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Ghostmirror Light": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Gift of Health": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Gladiator's Defense": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Glass Arrows": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Glimmer of Light": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Glowing Gaze": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Glowing Ice": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Glowstone": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Glyph of Concentration": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Elemental Power": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Energy": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Lesser Energy": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Renewal": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Restoration": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Glyph of Sacrifice": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Glyph",
+		"missing": false
+	},
+	"Golden Fang Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Golden Fox Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Golden Lotus Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Golden Phoenix Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Golden Skull Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Grapple": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Grasping Earth": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Grasping Was Kuurong": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Gravestone Marker": {
+		"profession": "",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Greater Conflagration": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Grenth's Balance": {
+		"profession": "Necromancer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Grenth's Fingers": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Griffon's Sweep": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Guardian": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Guilt": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Gust": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Hammer Bash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Hamstring": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Harrier's Grasp": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Harrier's Haste": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash enchantment spell",
+		"missing": false
+	},
+	"Harrier's Toss": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Harrier's Toss (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Headbutt": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "touch skill",
+		"missing": false
+	},
+	"Heal Area": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Heal as One": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Skill",
+		"missing": false
+	},
+	"Heal Other": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Heal Party": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Healer's Covenant": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Healing Breeze": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Healing Burst": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Healing Hands": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Healing Light": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Healing Ribbon": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Healing Ring": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Healing Seed": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Healing Signet": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Signet",
+		"missing": false
+	},
+	"Healing Spring": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Healing Touch": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Healing Whisper": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Heart of Fury": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Stance",
+		"missing": false
+	},
+	"Heart of Holy Flame": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Heart of Shadow": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Heaven's Delight": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Heavy Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Heket's Rampage": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Stance",
+		"missing": false
+	},
+	"Hex Breaker": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Hex Eater Signet": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Touch Signet",
+		"missing": false
+	},
+	"Hex Eater Vortex": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Hexbreaker Aria": {
+		"profession": "Paragon",
+		"attribute": "",
+		"type": "Chant",
+		"missing": false
+	},
+	"Hidden Caltrops": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Hide": {
+		"profession": "",
+		"attribute": "",
+		"type": "Form",
+		"missing": false
+	},
+	"Holiday Blues": {
+		"profession": "Necromancer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Holy Haste": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Holy Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Holy Strike": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Holy Veil": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Holy Wrath": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Horns of the Ox": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Hundred Blades": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Skill",
+		"missing": false
+	},
+	"Hunter's Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Ice Fort": {
+		"profession": "",
+		"attribute": "",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Ice Prison": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ice Spear": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Ice Spikes": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Icy Prism": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Icy Shackles": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Icy Veins": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ignite Arrows": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Ignorance": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Illusion of Haste": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Illusion of Pain": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Illusion of Weakness": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Illusionary Weaponry": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Images of Remorse": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Imagined Burden": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Imbue Health": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Spell",
+		"missing": false
+	},
+	"Immolate": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Impale": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Skill",
+		"missing": false
+	},
+	"Incendiary Arrows": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Incendiary Bonds": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ineptitude": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Inferno": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Infuriating Heat": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Infuse Health": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Insidious Parasite": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Intimidating Aura": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Invoke Lightning": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Iron Palm": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Irresistible Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Irresistible Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Jagged Bones": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Jagged Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Jaizhenju Strike": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Jamei's Gaze": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Jaundiced Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Judge's Insight": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Judge's Intervention": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Jungle Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Karei's Healing Circle": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Keen Arrow": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Keen Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Keiran's Sniper Shot (Hearts of the North)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Keystone Signet": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Signet",
+		"missing": false
+	},
+	"Kindle Arrows": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Kinetic Armor": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Kirin's Wrath": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Kitah's Burden": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Knee Cutter": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Lacerating Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Lamentation": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Hex spell",
+		"missing": false
+	},
+	"Land Mine": {
+		"profession": "",
+		"attribute": "",
+		"type": "Trap",
+		"missing": false
+	},
+	"Lava Arrows": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lava Font": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Leader's Comfort": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Skill",
+		"missing": false
+	},
+	"Leader's Zeal": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Skill",
+		"missing": false
+	},
+	"Leaping Mantis Sting": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Leech Signet": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Leviathan's Sweep": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Life": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Life Attunement": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Life Bond": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Life Sheath": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Life Siphon": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Life Transfer": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Lifebane Strike": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lift Enchantment": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Light of Deliverance": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Light of Dwayna": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lightning Bolt": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lightning Hammer": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lightning Javelin": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lightning Orb": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Lightning Reflexes": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Lightning Strike": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Lightning Surge": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Lightning Touch": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Lingering Curse": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Lion's Comfort": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Liquid Flame": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Locust's Fury": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Lotus Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Lyssa's Assault": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Lyssa's Aura": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Maelstrom": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Magebane Shot": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Magehunter Strike": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Magehunter's Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Magnetic Aura": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Maiming Strike": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Malaise": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Malicious Strike": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Malign Intervention": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mantis Touch": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Skill",
+		"missing": false
+	},
+	"Mantra of Concentration": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Earth": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Flame": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Inscriptions": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Inscriptions (Saul D'Alessio)": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Lightning": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Persistence": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Recall": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Mantra of Recovery": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Stance",
+		"missing": false
+	},
+	"Mantra of Signets": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Marauder's Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Mark of Death": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Fury": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Insecurity": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Instability": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Pain": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Protection": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Mark of Rodgort": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mark of Subversion": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Martyr": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Masochism": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Master of Magic": {
+		"profession": "Elementalist",
+		"attribute": "Energy Storage",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Meekness": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mega Snowball": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Melandru's Arrows": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Melandru's Resilience": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Stance",
+		"missing": false
+	},
+	"Melandru's Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Mend Ailment": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mend Body and Soul": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mend Body and Soul (Togo)": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mend Condition": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mending": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Mending Grip": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mending Refrain": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Echo",
+		"missing": false
+	},
+	"Mending Refrain (PvP)": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Echo",
+		"missing": false
+	},
+	"Mending Touch": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Merciless Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Meteor": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Meteor Shower": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mighty Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Mighty Throw": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Mighty Was Vorizun": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Migraine": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mind Blast": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mind Burn": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mind Freeze": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mind Shock": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mind Wrack": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mirage Cloak": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Mirror of Disenchantment": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mirror of Ice": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Mist Form": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Mistrust": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Moebius Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Mokele Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Muddy Terrain": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Mystic Corruption": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Flash enchantment spell",
+		"missing": false
+	},
+	"Mystic Healing": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mystic Regeneration": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Mystic Sweep": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Mystic Twister": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Mystic Vigor": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Natural Healing": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Natural Resistance": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Natural Stride": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Stance",
+		"missing": false
+	},
+	"Natural Temper": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Skill",
+		"missing": false
+	},
+	"Nature's Blessing": {
+		"profession": "",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Nature's Renewal": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Necrotic Traversal": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Needling Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Nightmare Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Nine Tail Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Obsidian Flame": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Obsidian Flame (PvP)": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Obsidian Flesh": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Offering of Blood": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Offering of Spirit": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Offering of Spirit (Togo)": {
+		"profession": "",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Onslaught": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Oppressive Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Order of Apostasy": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Order of Pain": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Order of the Vampire": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Orison of Healing": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Overbearing Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Overload": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Pacifism": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Pain": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Pain of Disenchantment": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Painful Bond": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Panic": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Paranoid Indignation": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Parasitic Bond": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Patient Spirit": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Peace and Harmony": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Penetrating Attack": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Penetrating Blow": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Penetrating Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Pensive Guardian": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Persistence of Memory": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Pestilence": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Phantom Pain": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Phoenix": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Physical Resistance": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Stance",
+		"missing": false
+	},
+	"Piercing Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Pin Down": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Pious Assault": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Melee attack",
+		"missing": false
+	},
+	"Pious Concentration": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Stance",
+		"missing": false
+	},
+	"Pious Haste": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Stance",
+		"missing": false
+	},
+	"Pious Renewal": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Pious Restoration": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Plague Sending": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Plague Signet": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Signet",
+		"missing": false
+	},
+	"Plague Touch": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Point Blank Shot": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Poison Arrow": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Poison Tip Signet": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Signet",
+		"missing": false
+	},
+	"Poisoned Heart": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Poisonous Bite": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Pounce": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Power Attack": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Power Block": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Power Drain": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Power Flux": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Power Leak": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Power Leech": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Power Return": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Spell",
+		"missing": false
+	},
+	"Power Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Power Spike": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Precision Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Predator's Pounce": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Predatory Bond": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Shout",
+		"missing": false
+	},
+	"Prepared Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Preservation": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Price of Failure": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Primal Echoes": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Primal Rage": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Protective Bond": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Protective Spirit": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Protective Was Kaolai": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Protector's Defense": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Skill",
+		"missing": false
+	},
+	"Protector's Strike": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Psychic Instability": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Spell",
+		"missing": false
+	},
+	"Pulverizing Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Punishing Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Pure Strike": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Purge Conditions": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Purge Signet": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Putrid Bile": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Putrid Explosion": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Putrid Flesh": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Quick Shot": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Quickening Zephyr": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Quicksand": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Quivering Blade": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Radiant Scythe": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Rage of the Ntouka": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Rain of Arrows": {
+		"profession": "",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Rain of Terror (spell)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rampage as One": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Skill",
+		"missing": false
+	},
+	"Rapid Fire": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Ravenous Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Ray of Judgment": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Read the Wind": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Reap Impurities": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Reaper's Mark": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Reaper's Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Rebirth": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Reckless Haste": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Reclaim Essence": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Spell",
+		"missing": false
+	},
+	"Recovery": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Recuperation": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Recurring Insecurity": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Rejuvenation": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Release Enchantments": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Relentless Assault": {
+		"profession": "",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Remedy Signet": {
+		"profession": "Paragon",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Remove Hex": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rend Enchantments": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rending Aura": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Rending Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe attack",
+		"missing": false
+	},
+	"Rending Touch": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Renew Life": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Renewing Memories": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Renewing Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Renewing Surge": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Repeating Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Resilient Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Restful Breeze": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Restoration": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Restore Condition": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Restore Life": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Resurrect": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Resurrect (monster skill)": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Resurrection Chant": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Resurrection Signet": {
+		"profession": "",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Retribution": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Return": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Reversal of Damage": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Reversal of Fortune": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Reverse Hex": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Ride the Lightning": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rigor Mortis": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Riot Shield": {
+		"profession": "",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Riposte": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Skill",
+		"missing": false
+	},
+	"Rising Bile": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Ritual Lord": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Skill",
+		"missing": false
+	},
+	"Roaring Winds": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Rocket-Propelled Gobstopper": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rodgort's Invocation": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rotting Flesh": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rupture Soul": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Spell",
+		"missing": false
+	},
+	"Rush": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Rust": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sand Shards": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Sandstorm": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Savage Pounce": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Savage Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Savage Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Savannah Heat": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Savannah Heat (PvP)": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Scavenger Strike": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Pet Attack",
+		"missing": false
+	},
+	"Scavenger's Focus": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Skill",
+		"missing": false
+	},
+	"Scourge Enchantment": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Scourge Healing": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Screaming Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Scribe's Insight": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Searing Flames": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Searing Heat": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Second Wind": {
+		"profession": "Elementalist",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Seeking Arrows": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Seeking Blade": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Seeping Wound": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Serpent's Quickness": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Stance",
+		"missing": false
+	},
+	"Seven Weapons Stance": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Sever Artery": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Shadow Form": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shadow Meld": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shadow of Fear": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shadow Refuge": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shadow Strike": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shadow Theft": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Skill",
+		"missing": false
+	},
+	"Shadowsong": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Shadowy Burden": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shame": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shameful Fear": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shard Storm": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shared Burden": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shared Burden (Gwen)": {
+		"profession": "",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sharpen Daggers": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shatter Delusions": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shatter Enchantment": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shatter Hex": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shatter Storm": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shattering Assault": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Shatterstone": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shell Shock": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shelter": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Shield Bash": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Shield Guardian": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shield of Absorption": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shield of Deflection": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shield of Judgment": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shield of Regeneration": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shield Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Shielding Hands": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shock": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Shock Arrow": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shockwave": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Shove": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Shrinking Armor": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Shroud of Distress": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Shroud of Silence": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Touch Hex Spell",
+		"missing": false
+	},
+	"Sight Beyond Sight": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Signet of Aggression": {
+		"profession": "Paragon",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Agony": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Binding": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Clumsiness": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Deadly Corruption": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Devotion": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Disenchantment": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Disruption": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Distraction": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Ghostly Might": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Humility": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Judgment": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Lost Souls": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Malice": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Midnight": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Touch Signet",
+		"missing": false
+	},
+	"Signet of Mystic Wrath": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Pious Light": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Rage": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Rejuvenation": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Removal": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Return": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Sorrow": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Spirits": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Strength": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Suffering": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Synergy": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of the Unseen": {
+		"profession": "",
+		"attribute": "",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Toxic Shock": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Signet",
+		"missing": false
+	},
+	"Signet of Weariness": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Silverwing Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Simple Thievery": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Siphon Speed": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Siphon Strength": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Skull Crack": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Slayer's Spear": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Sliver Armor": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Smite": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Smite Condition": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Smite Hex": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Smiter's Boon": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Smoke Powder Defense": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Stance",
+		"missing": false
+	},
+	"Smoke Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Smoldering Embers": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Snare": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Snowball": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Soldier's Defense": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Soldier's Fury": {
+		"profession": "Paragon",
+		"attribute": "Leadership",
+		"type": "Echo",
+		"missing": false
+	},
+	"Soldier's Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Soldier's Strike": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Song of Concentration": {
+		"profession": "Paragon",
+		"attribute": "",
+		"type": "Chant",
+		"missing": false
+	},
+	"Song of Power": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Song of Purification": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Song of Restoration": {
+		"profession": "Paragon",
+		"attribute": "Motivation",
+		"type": "Chant",
+		"missing": false
+	},
+	"Soothing": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Soothing Images": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Soothing Memories": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Soul Barbs": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Soul Feast": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Soul Leech": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Soul Twisting": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Skill",
+		"missing": false
+	},
+	"Spear of Light": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spear of Lightning": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Spear of Redemption": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Spectral Agony (Saul D'Alessio)": {
+		"profession": "",
+		"attribute": "",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Spell Breaker": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spell Shield": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spike Trap": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Spinal Shivers": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Spirit Bond": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spirit Bond (PvP)": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spirit Boon Strike": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Burn": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Burn (Togo)": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Channeling": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spirit Light": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Light Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Spirit of Failure": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Spirit Rift": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Rift (Togo)": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Shackles": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Spirit Siphon": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit Transfer": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spirit's Gift": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spirit's Strength": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Spiritual Pain": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Spiteful Spirit": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Splinter Shot": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Splinter Shot (monster skill)": {
+		"profession": "Monster",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Splinter Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Spoil Victor": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sprint": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Staggering Blow": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Staggering Force": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Standing Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Star Burst": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Star Servant": {
+		"profession": "Necromancer",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Steady Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Steam": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Steelfang Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Stolen Speed": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Stone Daggers": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Stone Sheath": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Stoneflesh Aura": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Stonesoul Strike": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Stoning": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Storm Chaser": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Stance",
+		"missing": false
+	},
+	"Storm's Embrace": {
+		"profession": "Ranger",
+		"attribute": "",
+		"type": "Stance",
+		"missing": false
+	},
+	"Strength of Honor": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Strike as One": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Shout",
+		"missing": false
+	},
+	"Strip Enchantment": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Stun Grenade": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Stun on Critical Hit": {
+		"profession": "Monster",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Stunning Strike": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Succor": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Suffering": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sugar Infusion": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Sum of All Fears": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sum of All Fears (Gwen)": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Sun and Moon Slash": {
+		"profession": "Warrior",
+		"attribute": "Swordsmanship",
+		"type": "Sword Attack",
+		"missing": false
+	},
+	"Sundering Attack": {
+		"profession": "Ranger",
+		"attribute": "Marksmanship",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Supportive Spirit": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Swap": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Swift Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Swift Javelin": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Swirling Aura": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Symbiosis": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Symbol of Wrath": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Symbolic Celerity": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Symbols of Inspiration": {
+		"profession": "Mesmer",
+		"attribute": "Fast Casting",
+		"type": "Skill",
+		"missing": false
+	},
+	"Sympathetic Visage": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Tainted Flesh": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Taste of Death": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Taste of Pain": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Tear Gas": {
+		"profession": "",
+		"attribute": "",
+		"type": "Spell",
+		"missing": false
+	},
+	"Tease": {
+		"profession": "Mesmer",
+		"attribute": "Inspiration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Teinai's Crystals": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Teinai's Heat": {
+		"profession": "Elementalist",
+		"attribute": "Fire Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Teinai's Prison": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Teinai's Wind": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Temple Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Terminal Velocity": {
+		"profession": "",
+		"attribute": "",
+		"type": "Bow Attack",
+		"missing": false
+	},
+	"Test of Faith": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Touch spell",
+		"missing": false
+	},
+	"Thrill of Victory": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Throw Dirt": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Touch skill",
+		"missing": false
+	},
+	"Throw Rock": {
+		"profession": "",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Tiger Stance": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Stance",
+		"missing": false
+	},
+	"Tiger's Fury": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Stance",
+		"missing": false
+	},
+	"Touch of Agony": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Toxic Chill": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Toxicity": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Trampling Ox": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Tranquil Was Tanasen": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Trapper's Focus": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Trapper's Speed": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Triple Chop": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Tripwire": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Trap",
+		"missing": false
+	},
+	"Troll Unguent": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Skill",
+		"missing": false
+	},
+	"Twin Moon Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Twisting Fangs": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Ulcerous Lungs": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Unblockable Throw": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Unholy Feast": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Union": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Unnatural Signet": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Unnatural Signet (Saul D'Alessio)": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Signet",
+		"missing": false
+	},
+	"Unsteady Ground": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Unsuspecting Strike": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Lead Attack",
+		"missing": false
+	},
+	"Vampiric Assault": {
+		"profession": "Assassin",
+		"attribute": "Deadly Arts",
+		"type": "Dual Attack",
+		"missing": false
+	},
+	"Vampiric Bite": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Vampiric Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Vampiric Spirit": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Vampiric Swarm": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Vampiric Touch": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Vapor Blade": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Veil of Thorns": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Vengeance": {
+		"profession": "Monk",
+		"attribute": "",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Vengeful Was Khanhei": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Item Spell",
+		"missing": false
+	},
+	"Vengeful Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Verata's Aura": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Verata's Gaze": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Verata's Sacrifice": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Vicious Attack": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Victorious Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Vigorous Spirit": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Vile Miasma": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Vile Touch": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Viper's Defense": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Spell",
+		"missing": false
+	},
+	"Viper's Nest": {
+		"profession": "Ranger",
+		"attribute": "Beast Mastery",
+		"type": "Trap",
+		"missing": false
+	},
+	"Virulence": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Visions of Regret": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Vital Boon": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Vocal Minority": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Vow of Piety": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Enchantment spell",
+		"missing": false
+	},
+	"Vow of Silence": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Vow of Strength": {
+		"profession": "Dervish",
+		"attribute": "Earth Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Wail of Doom": {
+		"profession": "Necromancer",
+		"attribute": "Soul Reaping",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Wailing Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Wallow's Bite": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Touch Skill",
+		"missing": false
+	},
+	"Wandering Eye": {
+		"profession": "Mesmer",
+		"attribute": "Illusion Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Wanderlust": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Binding Ritual",
+		"missing": false
+	},
+	"Ward Against Elements": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Ward Against Foes": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Ward Against Harm": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Ward Against Melee": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Ward Against Melee (PvP)": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Ward of Stability": {
+		"profession": "Elementalist",
+		"attribute": "Earth Magic",
+		"type": "Ward Spell",
+		"missing": false
+	},
+	"Warmonger's Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Warrior's Cunning": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Warrior's Endurance": {
+		"profession": "Warrior",
+		"attribute": "Strength",
+		"type": "Skill",
+		"missing": false
+	},
+	"Wary Stance": {
+		"profession": "Warrior",
+		"attribute": "Tactics",
+		"type": "Stance",
+		"missing": false
+	},
+	"Wastrel's Collapse": {
+		"profession": "Assassin",
+		"attribute": "",
+		"type": "Skill",
+		"missing": false
+	},
+	"Wastrel's Demise": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Wastrel's Worry": {
+		"profession": "Mesmer",
+		"attribute": "Domination Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Watchful Healing": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Watchful Intervention": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Watchful Spirit": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Water Attunement": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Water Trident": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Way of Perfection": {
+		"profession": "Assassin",
+		"attribute": "Shadow Arts",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Way of the Assassin": {
+		"profession": "Assassin",
+		"attribute": "Critical Strikes",
+		"type": "Stance",
+		"missing": false
+	},
+	"Weaken Armor": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Spell",
+		"missing": false
+	},
+	"Weaken Knees": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Weapon of Aggression": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapon of Fury": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapon of Quickening": {
+		"profession": "Ritualist",
+		"attribute": "Communing",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapon of Remedy": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapon of Warding": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapon of Warding (PvP)": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Weapons of Three Forges": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Wearying Strike": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Web of Disruption": {
+		"profession": "Mesmer",
+		"attribute": "",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Well of Blood": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of Darkness": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of Power": {
+		"profession": "Necromancer",
+		"attribute": "Blood Magic",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of Silence": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of Suffering": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of the Profane": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Well of Weariness": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Well Spell",
+		"missing": false
+	},
+	"Whirling Axe": {
+		"profession": "Warrior",
+		"attribute": "Axe Mastery",
+		"type": "Axe Attack",
+		"missing": false
+	},
+	"Whirling Charge": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Flash enchantment spell",
+		"missing": false
+	},
+	"Whirling Defense": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Stance",
+		"missing": false
+	},
+	"Whirlwind": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Wielder's Boon": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Wielder's Remedy": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Wielder's Strike": {
+		"profession": "Ritualist",
+		"attribute": "Channeling Magic",
+		"type": "Spell",
+		"missing": false
+	},
+	"Wielder's Zeal": {
+		"profession": "Ritualist",
+		"attribute": "Spawning Power",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Wild Blow": {
+		"profession": "Warrior",
+		"attribute": "",
+		"type": "Melee Attack",
+		"missing": false
+	},
+	"Wild Strike": {
+		"profession": "Assassin",
+		"attribute": "Dagger Mastery",
+		"type": "Off-Hand Attack",
+		"missing": false
+	},
+	"Wild Throw": {
+		"profession": "Paragon",
+		"attribute": "Spear Mastery",
+		"type": "Spear Attack",
+		"missing": false
+	},
+	"Windborne Speed": {
+		"profession": "Elementalist",
+		"attribute": "Air Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Winds of Disenchantment": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Winnowing": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Winter": {
+		"profession": "Ranger",
+		"attribute": "Wilderness Survival",
+		"type": "Nature Ritual",
+		"missing": false
+	},
+	"Winter's Embrace": {
+		"profession": "Elementalist",
+		"attribute": "Water Magic",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Withdraw Hexes": {
+		"profession": "Monk",
+		"attribute": "Divine Favor",
+		"type": "Spell",
+		"missing": false
+	},
+	"Wither": {
+		"profession": "Necromancer",
+		"attribute": "Curses",
+		"type": "Hex Spell",
+		"missing": false
+	},
+	"Withering Aura": {
+		"profession": "Necromancer",
+		"attribute": "Death Magic",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Word of Censure": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Word of Healing": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Words of Comfort": {
+		"profession": "Monk",
+		"attribute": "Healing Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Wounding Strike": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Xinrae's Weapon": {
+		"profession": "Ritualist",
+		"attribute": "Restoration Magic",
+		"type": "Weapon Spell",
+		"missing": false
+	},
+	"Yellow Snow": {
+		"profession": "",
+		"attribute": "",
+		"type": "Preparation",
+		"missing": false
+	},
+	"Yeti Smash": {
+		"profession": "Warrior",
+		"attribute": "Hammer Mastery",
+		"type": "Hammer Attack",
+		"missing": false
+	},
+	"Zealot's Fire": {
+		"profession": "Monk",
+		"attribute": "Smiting Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Zealous Benediction": {
+		"profession": "Monk",
+		"attribute": "Protection Prayers",
+		"type": "Spell",
+		"missing": false
+	},
+	"Zealous Renewal": {
+		"profession": "Dervish",
+		"attribute": "Mysticism",
+		"type": "Flash Enchantment Spell",
+		"missing": false
+	},
+	"Zealous Sweep": {
+		"profession": "Dervish",
+		"attribute": "Scythe Mastery",
+		"type": "Scythe Attack",
+		"missing": false
+	},
+	"Zealous Vow": {
+		"profession": "Dervish",
+		"attribute": "Wind Prayers",
+		"type": "Enchantment Spell",
+		"missing": false
+	},
+	"Zojun's Shot": {
+		"profession": "Ranger",
+		"attribute": "Expertise",
+		"type": "Bow Attack",
+		"missing": false
+	}
+}

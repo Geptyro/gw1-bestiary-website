@@ -150,6 +150,59 @@ async function main() {
 	}
 	await fsp.writeFile(path.join(genDir, 'facets.json'), JSON.stringify(facetIndex));
 
+	// Wiki-sourced profession/attribute per skill name (committed file, produced
+	// once by scripts/fetch-skill-meta.js — GW1 skills never change).
+	let skillMeta = {};
+	try {
+		skillMeta = JSON.parse(
+			fs.readFileSync(path.join(root, 'src', 'lib', 'data', 'skill-meta.json'), 'utf8')
+		);
+	} catch {
+		console.warn('prepare-data: skill-meta.json missing — skills get no profession/attribute');
+	}
+
+	// Skill → creatures index for /skill/. Skills are per-link (one model is
+	// shared by several creature variants, each with its own bar), so group by
+	// model but list the matching variant names — the skill page must credit the
+	// variant that actually has the skill, not just whoever owns the mesh.
+	const skillMap = new Map();
+	for (const r of records) {
+		for (const l of r.links) {
+			for (const s of l.skills) {
+				const slug = slugify(s.name);
+				let e = skillMap.get(slug);
+				if (!e) {
+					e = { name: s.name, slug, elite: false, icon: s.icon, article: s.article, byModel: new Map() };
+					skillMap.set(slug, e);
+				} else if (e.name !== s.name) {
+					console.warn(`prepare-data: skill slug collision "${e.name}" / "${s.name}" -> ${slug}`);
+				}
+				e.elite ||= !!s.elite;
+				let n = e.byModel.get(r.model);
+				if (!n) {
+					n = { m: r.model, s: r.sprite, titles: new Set() };
+					e.byModel.set(r.model, n);
+				}
+				n.titles.add(l.title || r.name);
+			}
+		}
+	}
+	const skills = [...skillMap.values()]
+		.map((e) => ({
+			name: e.name,
+			slug: e.slug,
+			elite: e.elite,
+			icon: e.icon,
+			article: e.article,
+			profession: skillMeta[e.name]?.profession || '',
+			attribute: skillMeta[e.name]?.attribute || '',
+			npcs: [...e.byModel.values()]
+				.map((n) => ({ m: n.m, n: [...n.titles].join(' / '), s: n.s }))
+				.sort((a, b) => a.n.localeCompare(b.n))
+		}))
+		.sort((a, b) => a.name.localeCompare(b.name));
+	await fsp.writeFile(path.join(genDir, 'skills.json'), JSON.stringify(skills));
+
 	await fsp.writeFile(
 		path.join(genDir, 'meta.json'),
 		JSON.stringify({ count: records.length, packageVersion: pkgVersion })

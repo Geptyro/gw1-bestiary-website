@@ -91,6 +91,7 @@
 
 	<nav>
 		<a href="/" class:on={page.url.pathname === '/'}>Compendium</a>
+		<a href="/skill" class:on={page.url.pathname.startsWith('/skill')}>Skills</a>
 		<a href="/about" class:on={page.url.pathname === '/about'}>About</a>
 	</nav>
 </header>

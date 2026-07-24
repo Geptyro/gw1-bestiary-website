@@ -134,10 +134,14 @@
 	</div>
 
 	{#each FACET_KEYS as key (key)}
-		{@const visible = facetIndex[key].filter(
-			(v) => (liveCounts[key].get(v.slug) || 0) > 0 || activeFilters[key].has(v.slug)
+		{@const active = facetIndex[key].filter((v) => activeFilters[key].has(v.slug))}
+		{@const rest = facetIndex[key].filter(
+			(v) => !activeFilters[key].has(v.slug) && (liveCounts[key].get(v.slug) || 0) > 0
 		)}
-		{@const values = showAllFacets ? visible : visible.slice(0, TOP_N)}
+		{@const visible = [...active, ...rest]}
+		{@const values = showAllFacets
+			? visible
+			: visible.slice(0, Math.max(TOP_N, active.length))}
 		{#if visible.length}
 			<div class="facet">
 				<span class="facet-name">{FACET_LABEL[key].many}</span>
@@ -152,8 +156,8 @@
 							{v.value}<span class="cnt">{liveCounts[key].get(v.slug) || 0}</span>
 						</button>
 					{/each}
-					{#if !showAllFacets && visible.length > TOP_N}
-						<a class="more" href="/{key}/">+{visible.length - TOP_N} more →</a>
+					{#if !showAllFacets && visible.length > values.length}
+						<a class="more" href="/{key}/">+{visible.length - values.length} more →</a>
 					{/if}
 				</div>
 			</div>
