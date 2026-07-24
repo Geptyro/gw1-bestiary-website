@@ -87,8 +87,7 @@ function toRecord(e) {
 				? `https://wiki.guildwars.com/wiki/${encodeURIComponent(l.title.replace(/ /g, '_'))}`
 				: l.url,
 			skills: mapSkills(l.skills)
-		})),
-		duplicates: e.duplicates || []
+		}))
 	};
 }
 

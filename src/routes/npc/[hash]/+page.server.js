@@ -8,12 +8,10 @@ export function entries() {
 	return records.map((r) => ({ hash: r.model }));
 }
 
+// Server-only load: keeps the full npc.json dataset out of the client bundle —
+// prerendering serializes just this page's record for client-side navigation.
 export function load({ params }) {
 	const npc = records.find((r) => r.model === params.hash);
 	if (!npc) throw error(404, 'No such creature');
-
-	// "Also appears as" — the duplicate meshes' hashes, plus any sibling entries
-	// that share this exact mesh aren't separate records (they're folded), so we
-	// only surface the duplicate hashes here.
 	return { npc };
 }

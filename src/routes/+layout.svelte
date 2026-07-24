@@ -25,8 +25,13 @@
 		clearTimeout(debounce);
 		const onCompendium = page.url.pathname === '/';
 		const nav = () => {
-			const target = value ? `/?q=${encodeURIComponent(value)}` : '/';
-			goto(target, { replaceState: onCompendium, keepFocus: true, noScroll: true });
+			// Keep any active facet filters — only q (and the page cursor) change.
+			const p = new URLSearchParams(onCompendium ? page.url.searchParams : undefined);
+			if (value) p.set('q', value);
+			else p.delete('q');
+			p.delete('page');
+			const qs = p.toString();
+			goto(qs ? `/?${qs}` : '/', { replaceState: onCompendium, keepFocus: true, noScroll: true });
 		};
 		if (immediate) nav();
 		else debounce = setTimeout(nav, 160);
@@ -36,11 +41,29 @@
 		e.preventDefault();
 		run(term, { immediate: true });
 	}
+
+	// "/" focuses the search box from anywhere; Esc clears it (or blurs when
+	// already empty). Documented on the About page.
+	function onKeydown(e) {
+		if (e.key === '/' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+			const t = e.target;
+			if (t instanceof HTMLElement && (t.matches('input, textarea, select') || t.isContentEditable))
+				return;
+			e.preventDefault();
+			inputEl.focus();
+			inputEl.select();
+		} else if (e.key === 'Escape' && document.activeElement === inputEl) {
+			if (term) run('', { immediate: true });
+			else inputEl.blur();
+		}
+	}
 </script>
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
+
+<svelte:window onkeydown={onKeydown} />
 
 <a class="skip" href="#main">Skip to content</a>
 

@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="%sveltekit.assets%/favicon.svg" />
+		<!-- Favicon is linked from +layout.svelte (hashed asset import). -->
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta
 			name="description"
@@ -18,13 +18,14 @@
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
-		<!-- Cloudflare Web Analytics (privacy-first, cookieless). Paste the site
-		     token from dash.cloudflare.com → Analytics → Web Analytics. Until then
-		     this beacon is inert. SPA navigations are auto-tracked. -->
+		<!-- Umami (self-hosted at stats.cedricdessalles.dev, cookieless, first-party;
+		     tracker renamed to insights.js to stay off adblock lists). Paste this
+		     site's Website ID from the Umami dashboard — see umami/README.md. Until
+		     then the tag is inert. SPA navigations are auto-tracked. -->
 		<script
 			defer
-			src="https://static.cloudflareinsights.com/beacon.min.js"
-			data-cf-beacon='{"token": "REPLACE_WITH_CLOUDFLARE_WEB_ANALYTICS_TOKEN"}'
+			src="https://stats.cedricdessalles.dev/insights.js"
+			data-website-id="REPLACE_WITH_UMAMI_WEBSITE_ID"
 		></script>
 	</body>
 </html>
