@@ -134,25 +134,26 @@
 	</div>
 
 	{#each FACET_KEYS as key (key)}
-		{@const values = showAllFacets ? facetIndex[key] : facetIndex[key].slice(0, TOP_N)}
-		{#if facetIndex[key].length}
+		{@const visible = facetIndex[key].filter(
+			(v) => (liveCounts[key].get(v.slug) || 0) > 0 || activeFilters[key].has(v.slug)
+		)}
+		{@const values = showAllFacets ? visible : visible.slice(0, TOP_N)}
+		{#if visible.length}
 			<div class="facet">
 				<span class="facet-name">{FACET_LABEL[key].many}</span>
 				<div class="chips">
 					{#each values as v (v.slug)}
-						{@const n = liveCounts[key].get(v.slug) || 0}
 						<button
 							class="chip"
 							class:on={activeFilters[key].has(v.slug)}
-							class:zero={n === 0 && !activeFilters[key].has(v.slug)}
 							onclick={() => toggleFacet(key, v.slug)}
 							aria-pressed={activeFilters[key].has(v.slug)}
 						>
-							{v.value}<span class="cnt">{n}</span>
+							{v.value}<span class="cnt">{liveCounts[key].get(v.slug) || 0}</span>
 						</button>
 					{/each}
-					{#if !showAllFacets && facetIndex[key].length > TOP_N}
-						<a class="more" href="/{key}/">+{facetIndex[key].length - TOP_N} more →</a>
+					{#if !showAllFacets && visible.length > TOP_N}
+						<a class="more" href="/{key}/">+{visible.length - TOP_N} more →</a>
 					{/if}
 				</div>
 			</div>
@@ -295,9 +296,6 @@
 	}
 	.chip.on .cnt {
 		opacity: 0.85;
-	}
-	.chip.zero {
-		opacity: 0.35;
 	}
 	.more {
 		font-family: 'Cinzel', serif;
