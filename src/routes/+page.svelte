@@ -69,20 +69,37 @@
 	}
 
 	// Text search first, then AND across facets (within a facet, OR the values).
-	let results = $derived.by(() => {
-		let list = search(index, q);
-		if (anyFilter) {
-			list = list.filter((it) => {
-				for (const key of FACET_KEYS) {
-					const want = activeFilters[key];
-					if (!want.size) continue;
-					const have = (it.f?.[key] || []).map(slugify);
-					if (!have.some((v) => want.has(v))) return false;
-				}
-				return true;
-			});
+	// `excludeKey` lets the live counts drop one facet from the AND (see below).
+	function matchesFacets(it, excludeKey = null) {
+		for (const key of FACET_KEYS) {
+			if (key === excludeKey) continue;
+			const want = activeFilters[key];
+			if (!want.size) continue;
+			const have = (it.f?.[key] || []).map(slugify);
+			if (!have.some((v) => want.has(v))) return false;
 		}
-		return list;
+		return true;
+	}
+
+	let searched = $derived(search(index, q));
+	let results = $derived(anyFilter ? searched.filter((it) => matchesFacets(it)) : searched);
+
+	// Counts shown on the chips, recomputed against the current selection so
+	// picking "Vabbian" tells you how many of each profession are Vabbian. Facet
+	// K's counts exclude K's own filter from the AND — its values are OR'd, so
+	// selecting "Warrior" must not zero out the other professions.
+	let liveCounts = $derived.by(() => {
+		const out = {};
+		for (const key of FACET_KEYS) {
+			const counts = new Map();
+			for (const it of searched) {
+				if (!matchesFacets(it, key)) continue;
+				for (const s of new Set((it.f?.[key] || []).map(slugify)))
+					counts.set(s, (counts.get(s) || 0) + 1);
+			}
+			out[key] = counts;
+		}
+		return out;
 	});
 
 	let pageCount = $derived(Math.max(1, Math.ceil(results.length / PER_PAGE)));
@@ -123,13 +140,15 @@
 				<span class="facet-name">{FACET_LABEL[key].many}</span>
 				<div class="chips">
 					{#each values as v (v.slug)}
+						{@const n = liveCounts[key].get(v.slug) || 0}
 						<button
 							class="chip"
 							class:on={activeFilters[key].has(v.slug)}
+							class:zero={n === 0 && !activeFilters[key].has(v.slug)}
 							onclick={() => toggleFacet(key, v.slug)}
 							aria-pressed={activeFilters[key].has(v.slug)}
 						>
-							{v.value}<span class="cnt">{v.count}</span>
+							{v.value}<span class="cnt">{n}</span>
 						</button>
 					{/each}
 					{#if !showAllFacets && facetIndex[key].length > TOP_N}
@@ -276,6 +295,9 @@
 	}
 	.chip.on .cnt {
 		opacity: 0.85;
+	}
+	.chip.zero {
+		opacity: 0.35;
 	}
 	.more {
 		font-family: 'Cinzel', serif;

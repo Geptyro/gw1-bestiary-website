@@ -125,15 +125,27 @@ async function main() {
 	await fsp.writeFile(path.join(genDir, 'search-index.json'), JSON.stringify(index));
 
 	// Available filter values per facet, with counts, sorted by frequency. Drives
-	// the filter UI and the facet landing pages.
+	// the filter UI and the facet landing pages. Keyed by slug — the site's one
+	// notion of equality — so dataset case variants ("Istan"/"istan") collapse
+	// into a single entry, displayed under their most common spelling.
 	const facetIndex = {};
 	for (const key of FACET_KEYS) {
-		const counts = new Map();
+		const bySlug = new Map();
 		for (const r of records) {
-			for (const v of r.facets[key]) counts.set(v, (counts.get(v) || 0) + 1);
+			for (const v of r.facets[key]) {
+				const slug = slugify(v);
+				const e = bySlug.get(slug) || { slug, count: 0, spellings: new Map() };
+				e.count++;
+				e.spellings.set(v, (e.spellings.get(v) || 0) + 1);
+				bySlug.set(slug, e);
+			}
 		}
-		facetIndex[key] = [...counts.entries()]
-			.map(([value, count]) => ({ value, count, slug: slugify(value) }))
+		facetIndex[key] = [...bySlug.values()]
+			.map(({ slug, count, spellings }) => ({
+				value: [...spellings.entries()].sort((a, b) => b[1] - a[1])[0][0],
+				count,
+				slug
+			}))
 			.sort((a, b) => b.count - a.count || a.value.localeCompare(b.value));
 	}
 	await fsp.writeFile(path.join(genDir, 'facets.json'), JSON.stringify(facetIndex));
