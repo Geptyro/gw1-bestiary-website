@@ -18,6 +18,13 @@ const SPRITE = /^\/npc\/[^/]+\.png$/;
 const server = http.createServer((req, res) => {
 	if (SPRITE.test(req.url?.split('?')[0] ?? '')) {
 		res.setHeader('Cache-Control', 'public, max-age=2592000, must-revalidate');
+	} else {
+		// Pages and __data.json must always revalidate (a 304 via the ETag is
+		// cheap). Prerendered HTML ships Last-Modified but no Cache-Control, so
+		// browsers heuristic-cache it and serve stale pages after a deploy until
+		// a hard refresh. Hashed /_app/immutable/* assets are unaffected — sirv
+		// overrides this with max-age=1y immutable.
+		res.setHeader('Cache-Control', 'no-cache');
 	}
 	handler(req, res);
 });
